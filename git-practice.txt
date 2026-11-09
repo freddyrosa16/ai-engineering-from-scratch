@@ -1,0 +1,1 @@
+I practiced creating a file and committing it with Git.
